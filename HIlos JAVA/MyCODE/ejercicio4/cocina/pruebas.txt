@@ -1,9 +1,0 @@
-[1 HILO]
-- prueba 1: 17 platos
-- prueba 2: 12 platos
-- prueba 3: 18 platos
-
-[MULTIHILO]
-- prueba 1: 28 platos
-- prueba 2: 24 platos
-- prueba 3: 26 platos
