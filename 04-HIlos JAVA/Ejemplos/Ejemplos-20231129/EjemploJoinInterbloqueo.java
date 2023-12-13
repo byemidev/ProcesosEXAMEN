@@ -13,7 +13,7 @@ class bloqueador1 extends Thread
             //espero que acabe el otro hilo para empezar
             otroHilo.join();
         } catch(InterruptedException e){
-            System.out.println("Bloqueador1 Interrupción")
+            System.out.println("Bloqueador1 Interrupción");
         }
 
     }
@@ -34,7 +34,7 @@ class bloqueador2 extends Thread
             //espero que acabe el otro hilo para empezar
             otroHilo.join();
         } catch(InterruptedException e){
-            System.out.println("Bloqueador2 Interrupción")
+            System.out.println("Bloqueador2 Interrupción");
         }
 
     }
